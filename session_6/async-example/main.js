@@ -125,6 +125,13 @@ houseTwo(houseThree)
 //     })
 // }
 
+const getPaid = async ()=>{
+
+    
+}
+
+
+
 // async function getPaid(){
 //     try{
 //         const houseOneWait = await houseOne()
